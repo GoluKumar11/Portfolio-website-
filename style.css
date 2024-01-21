@@ -518,7 +518,7 @@ button:hover {
   .section-middle {
     display: inline block;
     height: 700px;
-    width: 1200px;
+    width: 1300px;
   }
   .middle-card {
     align-items: center;
@@ -534,10 +534,11 @@ button:hover {
     width: 1300px;
     display: block;
     align-items: center;
+    margin: 30px;
   }
   .foot-panel {
     display: block;
-    width: 1200px;
+    width: 1350px;
   }
 }
 
